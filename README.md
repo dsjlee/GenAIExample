@@ -2,6 +2,8 @@
 
 Created by following instructions on Microsoft tutorial: https://learn.microsoft.com/en-us/windows/ai/models/get-started-models-genai
 
+Suggest to use this sample app from Microsoft instead: https://github.com/microsoft/ai-powered-notes-winui3-sample
+
 Add a model and vocabulary file to your project:
 
 In Solution Explorer, right-click your project and select Add->New Folder. Name the new folder "Models". For this example, we will be using the model from https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-onnx/tree/main/directml/directml-int4-awq-block-128.
