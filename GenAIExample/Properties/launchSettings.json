@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GenAIExample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GenAIExample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
